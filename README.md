@@ -15,7 +15,7 @@ Build Version IMVU 554.6
 
 =====================================================
 T5DE v1.3.0 Patch for IMVU Classic 554.4 - Setup Guide
-=====================================================
+
 
 🔧PREREQUISITES:
 1. Make sure IMVU Classic 554.4 is installed on your PC.

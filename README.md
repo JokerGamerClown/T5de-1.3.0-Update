@@ -1,3 +1,14 @@
+Already Patched Version Just Download and Install :
+===================================================================================
+T5de 1.3.0 
+https://files.fm/u/zwtavdtrk4e8xwcz
+
+
+
+
+Only Follow The Setup Guide Below If You Want To Patch It Yourself
+-----------------------------------------------------------------------
+
 # T5de-1.3.0-Updater
 Build Version IMVU 554.6
 

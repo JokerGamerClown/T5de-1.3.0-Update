@@ -13,8 +13,7 @@ Only Follow The Setup Guide Below If You Want To Patch It Yourself
 # T5de-1.3.0-Updater
 Build Version IMVU 554.6
 
-=====================================================
-T5DE v1.3.0 Patch for IMVU Classic 554.4 - Setup Guide
+⚙️T5DE v1.3.0 Patch for IMVU Classic 554.4 - Setup Guide
 
 
 🔧PREREQUISITES:

@@ -22,12 +22,19 @@ PREREQUISITES:
 2. Make sure Python 3 is installed (download from https://www.python.org/downloads/
    and make sure to check "Add Python to PATH" during setup).
 
-HOW TO INSTALL THE PATCH:
+
+
+
+
+
+
+
+# HOW TO INSTALL THE PATCH:
 
 
 Step 1: Download & Extract
   Extract the T5DE zip folder to any location on your PC (e.g., Downloads folder).
-  [T5de zip](https://github.com/JokerGamerClown/T5de-1.3.0-Update/archive/refs/heads/main.zip)
+  [T5de zip link](https://github.com/JokerGamerClown/T5de-1.3.0-Update/archive/refs/heads/main.zip)
 
 Step 2: Install Dependencies
   Open Command Prompt or PowerShell in the extracted folder and run:

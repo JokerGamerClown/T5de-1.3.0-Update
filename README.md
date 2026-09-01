@@ -1,7 +1,7 @@
 🟢Already Patched Version Just Download and Install :
 ===================================================================================
 
-[T5de 1.3.0 rar](https://github.com/JokerGamerClown/T5de-1.3.0-Update/releases/download/T5de/T5DE-1.3.0-554.4.rar)  ✔️
+[T5de 1.3.0 rar 46.8 MB](https://github.com/JokerGamerClown/T5de-1.3.0-Update/releases/download/T5de/T5DE-1.3.0-554.4.rar)  ✔️
 
 
 
